@@ -4,6 +4,10 @@ This is an ugly modification of the original hank's extension https://github.com
 
 It is not fully opperating yet. Now ghidra doesn't fail parsing ROM header (magic 0xe9) but it launch some warnings parsing segments after ROM header. Any help is wellcome!
 
+Requires:
+
+- You need ghidra-xtensa extension: https://github.com/yath/ghidra-xtensa 
+
 Installing instructions:
 
  - git clone the project into a new folder
